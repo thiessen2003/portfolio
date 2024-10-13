@@ -39,21 +39,21 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Things I’ve made trying to put my dent in the
-							universe.
+							Some of my ideas that I could bring to life.
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. Many of
-							these projects are open-source and available for
-							others to explore and contribute to. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
+							I've worked on multiple projects throughout the years: 
+							from basic guessing game on Python solely based on conditionals, to 
+							some more advanced stuff like a fitness app with React Native. 
+							Below, there is a selection of some of the recent projects that I have 
+							been working on. Surely, I have more interesting projects on my 
+							GitHub, but I chose to display these ones as they represent 
+							my intent of developing new skills and working with a diverse range of tools. 
+							All of them are open-source and available publicly on Github, so feel free to 
+							fork, copy, colaborate, or whatever. Also, if you have an interesting 
+							idea for a project, feel free to reach out either by email or 
+							a LinkedIn message and I will be more than willing to collaborate with you. 
 						</div>
 
 						<div className="projects-list">
